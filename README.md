@@ -14,5 +14,7 @@ Your task is to: <br>
 4. Add dropdowns for Storage (256 GB / 512 GB) and Color (Space Black / Silver).
 5. Add pricing logic (e.g., $100 extra for 512 GB).
 6. Make the item active and test it from the Self-Service portal.
+---
+First thing we'll do is create a new group 1:04:30 
 
 
