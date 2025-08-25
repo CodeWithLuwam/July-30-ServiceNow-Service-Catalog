@@ -115,7 +115,7 @@ Even though Bud now has the role, you must **explicitly assign him as an editor 
 ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Service%20Catalog%20-%20Categories%20-%20Topics.png?raw=true)
 
 ### ❓ Add Variables (Questions)
-Purpose: Gather user preferences for configuration.
+Purpose: Gather user preferences for configuration. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20Questions.png?raw=true)
 
 **Add Storage Question**
 - Click **Insert New Question**
