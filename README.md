@@ -132,10 +132,9 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 - Choices: `Space Black`, `Silver`. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Questions%20-%20Storage%20and%20Color.png?raw=true) <br>
 
 ## ⚙ Settings & Access
-- **Settings:** Leave defaults
+- **Settings:** Leave defaults ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20-%20Settings.png?raw=true)
 - **Access:** Nothing to configure (Bud is editor) <br>
-![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20-%20Settings.png?raw=true)
-
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20-%20Access.png?raw=true)
 ## ✅ Step 4: Configure Fulfillment Flow
 - Select **Service Catalog Item Request** as the flow
 - Review & **Submit**
