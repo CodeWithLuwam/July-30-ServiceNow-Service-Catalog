@@ -105,6 +105,7 @@ Even though Bud now has the role, you must **explicitly assign him as an editor 
    - **Item Type:** `Standard Item in Service Catalog`
    - **Name:** `iPhone 16`
    - **Short Description & Description:** Fill details.
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Select%20Item%20Template.png?raw=true) <br>
 
 ### 🗂 Configure Category
 - Click **Edit Categories** (pencil icon).
