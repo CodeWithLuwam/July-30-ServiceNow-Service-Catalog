@@ -78,16 +78,16 @@ From here, you can view categories and add new ones if needed.
    - Save. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Group%20Member%20-%20Bud%20Richman.png?raw=true) <br>
 
 ## 🛠 Step 2: Assign Editors for Service Catalog
-Even though Bud now has the role, you must **explicitly assign him as an editor for the Service Catalog**:
+Even though Bud now has the role, you must **explicitly assign him as an editor for the Service Catalog** inside the Service Catalog:
 1. Navigate to:
    ```
    All > Service Catalog > Catalog Definitions > Maintain Catalogs
    ```
-2. Open **Service Catalog** (the one we use for IT hardware/software).
+2. Open **Service Catalog**. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Service%20Catalog%20-%20Catalog%20Definition%20-%20Maintain%20Catalogs.png?raw=true) <br>
 3. Under:
    - **Manager** → Add `System Administrator`
    - **Editors** → Add `Bud Richmond`
-4. **Save**.
+4. **Save**. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Service%20Catalog%20-%20Manager%20-%20Editors.png?raw=true) <br>
 
 ## 📦 Step 3: Create iPhone 16 Catalog Item with Catalog Builder
 1. **Impersonate Bud Richmond**.
