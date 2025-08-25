@@ -71,11 +71,11 @@ From here, you can view categories and add new ones if needed.
 4. In the **Roles** tab:
    - Click **Edit**
    - Add role: `catalog_admin`
-   - Save.
+   - Save. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Group%20Role%20-%20Catalog%20Admin.png?raw=true) <br>
 5. In the **Group Members** tab:
    - Click **Edit**
    - Add **Bud Richmond** to the group
-   - Save.
+   - Save. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Group%20Member%20-%20Bud%20Richman.png?raw=true) <br>
 
 ## 🛠 Step 2: Assign Editors for Service Catalog
 Even though Bud now has the role, you must **explicitly assign him as an editor for the Service Catalog**:
