@@ -61,7 +61,7 @@ From here, you can view categories and add new ones if needed.
 ## 🏗 Activity: Add iPhone 16 to Service Catalog
 **Scenario:**
 > You are a new ServiceNow Admin at DXC Technology. IT leadership asks:
-> _"Add the new iPhone 16 to the Service Catalog so employees can request it. Include storage and color options, pricing logic, and ensure access controls."_
+> _"Add the new iPhone 16 to the Service Catalog so employees can request it. Include storage and color options, pricing logic, and ensure access controls. Only authorized editors should be able to manage catalog items."_
 
 ### **Your Tasks**
 - [ ] Create a **Catalog Administrators** group and assign the `catalog_admin` role
