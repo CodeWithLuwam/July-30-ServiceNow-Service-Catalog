@@ -117,6 +117,7 @@ Even though Bud now has the role, you must **explicitly assign him as an editor 
 ### ❓ Add Variables (Questions)
 Purpose: Gather user preferences for configuration. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20Questions.png?raw=true)
 
+*Right now, we have standard employee questions that are defaulting when we create this item. We don't have a question we can utilize for iPhones we'll manually add each of our questions.* <br>
 **Add Storage Question**
 - Click **Insert New Question**
 - **Type:** `Choice`
@@ -124,7 +125,7 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 - Check **Mandatory**
 - **Choices:**
   - `256 GB`
-  - `512 GB`
+  - `512 GB` <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Question%20-%20How%20much%20storage%20do%20you%20want%3F.png?raw=true) <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Question%20-%20Custom%20choices.png?raw=true)
 
 **Add Color Question**
 - **Label:** `What color do you want?`
