@@ -95,8 +95,13 @@ Even though Bud now has the role, you must **explicitly assign him as an editor 
    ```
    All > Service Catalog > Catalog Builder
    ```
-3. Click **Create a New Catalog Item**.
-4. Select:
+3. Click **Create a New Catalog Item**. <br>
+
+   ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Impersonate%20-%20Catalog%20Builder%20-%20Create%20a%20new%20catalog%20item.png?raw=true) <br>
+
+   *This image shows the different steps we need to fulfill an item* <br>
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Steps%20it%20takes%20to%20Create%20an%20Item.png?raw=true) <br>
+5. Select:
    - **Item Type:** `Standard Item in Service Catalog`
    - **Name:** `iPhone 16`
    - **Short Description & Description:** Fill details.
