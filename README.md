@@ -129,7 +129,7 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 
 **Add Color Question**
 - **Label:** `What color do you want?`
-- Choices: `Space Black`, `Silver`.
+- Choices: `Space Black`, `Silver`. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Questions%20-%20Storage%20and%20Color.png?raw=true) <br>
 
 ## ⚙ Settings & Access
 - **Settings:** Leave defaults
