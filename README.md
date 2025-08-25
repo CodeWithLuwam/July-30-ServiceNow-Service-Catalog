@@ -137,8 +137,8 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20-%20Access.png?raw=true)
 ## ✅ Step 4: Configure Fulfillment Flow
 - Select **Service Catalog Item Request** as the flow
-- Review & **Submit**
-
+- Review & **Submit** <br>
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Fulfillment.png?raw=true)
 ## 💲 Step 5: Add Pricing Logic
 1. Navigate to:
    ```
