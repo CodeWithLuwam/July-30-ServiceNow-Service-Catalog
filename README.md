@@ -156,12 +156,10 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 ```
 All > Self-Service > Service Catalog > Mobiles
 ```
-- Select `iPhone 16`.
-- Choose **512 GB** → Verify price updates to **$1,099.99**.
+- Select `iPhone 16`. <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/IPhone%2016%20appears%20under%20Mobiles%20inside%20Service%20Catalog.png?raw=true)
+- Choose **512 GB** → Verify price updates to **$1,099.99**. <br> 
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/When%20512%20GB%20storage%20is%20selected%20the%20price%20changes.png?raw=true)
 
----
-**Tip:** Ensure the file is saved as `README.md` in your repository root so GitHub renders the Markdown.
-Uploading ServiceNow_Service_Catalog_Guide.md…]()
 
 
 
