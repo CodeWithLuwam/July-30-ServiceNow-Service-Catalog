@@ -133,7 +133,8 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
 
 ## ⚙ Settings & Access
 - **Settings:** Leave defaults
-- **Access:** Nothing to configure (Bud is editor)
+- **Access:** Nothing to configure (Bud is editor) <br>
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Builder%20-%20Settings.png?raw=true)
 
 ## ✅ Step 4: Configure Fulfillment Flow
 - Select **Service Catalog Item Request** as the flow
