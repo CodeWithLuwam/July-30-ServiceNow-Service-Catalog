@@ -145,9 +145,11 @@ Purpose: Gather user preferences for configuration. <br> ![](https://github.com/
    All > Service Catalog > Catalog Definitions > Maintain Items
    ```
 2. Find `iPhone 16` (filter by Recently Updated). <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Recently%20Updated%20Catalog%20Items%20-%20iPhone%2016.png?raw=true)
-3. Set **Price:** `$999.99`
-4. Go to **Variables** tab → Select `Storage` question:
-   - Under `Question Choices`, for **512 GB**, set **Price:** `$100.00`.
+3. Set **Price:** from `0.00` to `$999.99` <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Catalog%20Item%20-%20iPhone%2016%20-%20Variables%20tab%20-%20Questions%20we%20created.png?raw=true) <br>
+4. Go to **Variables** tab → Select the `Storage` question: <br>
+![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Inside%20a%20specific%20questions.png?raw=true) <br>
+   - Under `Question Choices`, select the **512 GB** <br> ![](https://github.com/CodeWithLuwam/July-30-ServiceNow-Service-Catalog/blob/main/Images/Question%20Choice%20-%20512GB.png?raw=true)
+   -  set **Price:** `$100.00`.
 5. Save & Update.
 
 ## 🔍 Step 6: Test in Self-Service Portal
